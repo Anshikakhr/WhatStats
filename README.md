@@ -1,7 +1,7 @@
 # WhatStats
 A Python-based WhatsApp chat analysis tool with a Streamlit web interface.
 
-# Requrements 
+# Requirements 
 - streamlit
 - matplotlib
 - seaborn
